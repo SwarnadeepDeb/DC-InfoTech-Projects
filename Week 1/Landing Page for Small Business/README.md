@@ -3,6 +3,14 @@
 
 Welcome to **Flavor Haven**, a visually engaging static website for a restaurant that offers a delightful dining experience with a variety of global flavors. This project includes an HTML structure with a corresponding CSS file to style the elements and enhance the aesthetic appeal.
 
+## Website Link
+
+You can view the live website [here](https://swarnadeepdeb.github.io/Flavor-Haven/).
+
+## Screenshot
+
+![Flavor Haven Screenshot](images/flavor%20Haven.png).
+
 ## Project Structure
 
 The project consists of the following files and folders:
